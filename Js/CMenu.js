@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', function(){
     const Menu = document.getElementById("Menu")
-    const menuHTML = MenuIndex();
+    const menuHTML = Menus();
 
     Menu.innerHTML = menuHTML;
 })
